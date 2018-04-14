@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: /#
+title: Unmanned Arial Systems Group
+email: your-email@domain.com
+author: Prometheus Computing
+description: > # "Write an awesome description for your new site here. 
+  Welcome to the UAS Group landing page. Here we explore ideas and concepts for projects that leverage unmanned arial systems.
+copyright: 'Copyright &copy; 2018 Prometheus Computing. All Rights Reserved.'
+credits: 'Credits: <credits>'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
